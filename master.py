@@ -21,26 +21,11 @@ email_content_normal = """\
 <html>
         <head><meta charset=UTF-8></head>
     <body style="font-family:楷体;font-size:24px">
-        <p>尊敬的客户：</br>
+        <p>尊敬的**小姐/先生：</br>
             &nbsp;&nbsp;&nbsp;&nbsp;您好！</br>
-            &nbsp;&nbsp;&nbsp;&nbsp;感谢您选择乐土基因，附件为您的电子版报告，请及时下载查阅~</br>
-            如有疑问欢迎致电客服热线：400-6698-988，我们将为您提供进一步的咨询服务。</br>
-            温馨提示：报告是PDF格式文件，建议您先下载PDF阅读软件再进行阅读。</br>
-            '一次相遇，终生相伴'，再次感谢您选择乐土基因！</br>
+            &nbsp;&nbsp;&nbsp;&nbsp;感谢您的关注~</br></br>
             祝您生活愉快，谢谢！
         </p>
-        <hr style="align:center;opacity:0.7;height:5px;border:white;border-top:1px solid black;"/>
-        <img src="cid:image1"/>
-        </br></br>
-        <p style="font-weight:600"  width="128" height="80" >乐土精准医疗科技有限公司（客服中心）</p>
-        <span style="font-size:20;font-weight:600">Tel：</span><span style="font-size:20">400-6698-988</span>
-        </br>
-		<p style="font-size:20;font-weight:600"  width="128" height="80" >深圳总部：</p>
-        <span style="font-size:20;font-weight:600">Email：</span><span style="font-size:20">cl-healthcare@cheerlandgroup.com</span></br>
-        <span style="font-size:20;font-weight:600">Add：</span><span style="font-size:20">深圳市南山区桃源街道南方科技大学创园8栋</span>
-		<p style="font-size:20;font-weight:600"  width="128" height="80" >北京公司：</p>
-		<span style="font-size:20;font-weight:600">Email：</span><span style="font-size:20">CL-BJKF@cheerlandgroup.com</span></br>
-		<span style="font-size:20;font-weight:600">Add：</span><span style="font-size:20">北京市昌平区回龙观镇中关村生命科学园生命路8号院一区15号楼</span>	
     </body>
 </html>
 """
@@ -49,33 +34,10 @@ email_content_9800 = """
 <html>
     <head></head>
     <body style="font-family:楷体;font-size:24px">
-        <p>尊敬的客户：</br>
+        <p>尊敬**小姐/先生：</br>
         &nbsp;&nbsp;&nbsp;&nbsp;您好！</br>
-         &nbsp;&nbsp;&nbsp;&nbsp;感谢您选择乐土基因，附件为您的电子版报告，有效期为30天，请您及时下载查阅~</br>
-        电子版报告查询方式有两种：</br>
-        &nbsp;&nbsp;（一）您可以直接下载附件查看；</br>
-        温馨提示：报告是PDF格式文件，建议您先下载PDF阅读软件再进行阅读。</br>
-        &nbsp;&nbsp;（二）您可以通过在线形式查看，在线查看操作流程如下：</br>
-        &nbsp;&nbsp;&nbsp;&nbsp;1. 首先打开查询地址:http://sys.clgene.com/login </br>
-        &nbsp;&nbsp;&nbsp;&nbsp;2. 在网页界面通过样本编号进行注册，填写个人注册信息，为了双重保障您的个人信息，</br>
-        获取手机验证码，注册成功后即可登陆个人报告查询界面。</br>
-        您的样本编号为：<span>sample_id</span></br>
-        "温馨提示：如有疑问欢迎致电客服热线：400-6698-988，我们将为您提供进一步的咨询服务。</br>
-        （报告解读预约热线：010-80766700，我们的解读人员将为您提供专业的解读服务）</br>
+         &nbsp;&nbsp;&nbsp;&nbsp;感谢您的关注</br>
         </p>
-        <hr style="align:center;opacity:0.7;height:5px;border:white;border-top:1px solid black;"/>
-        <img src="cid:image1" />
-        </br></br>
-        <p style="font-weight:600">乐土精准医疗科技有限公司（客服中心）</p>
-        <span style="font-size:20;font-weight:600">Tel：</span><span style="font-size:20">400-6698-988</span>
-        </br>
-		<p style="font-size:20;font-weight:600">深圳总部：</p>
-        <span style="font-size:20;font-weight:600">Email：</span><span style="font-size:20">cl-healthcare@cheerlandgroup.com</span></br>
-        <span style="font-size:20;font-weight:600">Add：</span><span style="font-size:20">深圳市南山区桃源街道南方科技大学创园8栋</span>
-        </br>
-        <p style="font-size:20;font-weight:600">北京公司：</p>
-        <span style="font-size:20;font-weight:600">Email：</span><span style="font-size:20">CL-BJKF@cheerlandgroup.com</span></br>
-        <span style="font-size:20;font-weight:600">Add：</span><span style="font-size:20">北京市昌平区回龙观镇中关村生命科学园生命路8号院一区15号楼</span>
     </body>
     </body>
 </html>

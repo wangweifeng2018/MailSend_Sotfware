@@ -4,7 +4,7 @@ import pandas as pd
 import sys
 
 from PyQt5.QtWidgets import (QApplication,  QFormLayout, QTableView,QLineEdit, QLabel, QAbstractItemView, 
-          QPushButton,  QVBoxLayout,QHBoxLayout, QWidget, QTextEdit, QGroupBox, QProgressBar)
+QPushButton,  QVBoxLayout,QHBoxLayout, QWidget, QTextEdit, QGroupBox, QProgressBar)
 
         
 class TextEdit(QTextEdit):
